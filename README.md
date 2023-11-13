@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ademalkan
 - 👀 I’m interested in Javascript technologies.
-- 💞️ I’m looking forward to get better as a Full-Stack Developer
+- 💞️ I’m looking forward to get better as a Front-end Developer
 - 📫 You can reach me from ademalkan321@gmail.com
 
 <!---
